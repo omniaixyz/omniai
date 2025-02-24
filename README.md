@@ -1,4 +1,4 @@
-# Omni AI 🚀  
+# Omni AI
 
 ### **An Open AI Innovation Accelerator for Indie Hackers & Builders**  
 
